@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.amygdalum</groupId>
 	<artifactId>hamcrest-extensions</artifactId>
-	<version>0.1.21-SNAPSHOT</version>
+	<version>0.1.21</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<url>https://github.com/almondtools/hamcrest-extensions</url>
 
@@ -27,7 +27,7 @@
 		<connection>scm:git:git@github.com:almondtools/hamcrest-extensions.git</connection>
 		<developerConnection>scm:git:git@github.com:almondtools/hamcrest-extensions.git</developerConnection>
 		<url>git@github.com:almondtools/hamcrest-extensions.git</url>
-		<tag>HEAD</tag>
+		<tag>hamcrest-extensions-0.1.21</tag>
 	</scm>
 	<distributionManagement>
 		<snapshotRepository>
